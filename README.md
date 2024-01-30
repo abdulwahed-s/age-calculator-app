@@ -1,16 +1,4 @@
-# age
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>simple flutter app to count your age in Gregorian and Hijri date</h1>
+<h3>here are some images from the app</h3>
+<img src="appimage.png" alt="">
+<h3>you can try it yourself by clicking <a href="https://media.githubusercontent.com/media/abdulwahed-s/age-calculator-app/master/age-calculator.apk?download=true">HERE</a></h3>
